@@ -38,7 +38,7 @@
 
 ### 📫 Contact Me
 - **Email**: [chauhanabhishekkr@gmail.com](mailto:chauhanabhishekkr@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile](#) *(Add your LinkedIn URL here)*  
+- **LinkedIn**: [www.linkedin.com/in/abhishek-kumar-chauhan-685b0130a(#) *(www.linkedin.com/in/abhishek-kumar-chauhan-685b0130a)*  
 
 ---
 
