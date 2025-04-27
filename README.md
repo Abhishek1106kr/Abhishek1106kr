@@ -26,7 +26,7 @@
 
 ### 🌟 Goals
 - To become a **significant contributor** in the **Open Source Community**.  
-- Focus on **Astropy** and other scientific computing projects.  
+- Focus on **Astropy** && Sunpy and other scientific computing projects.  
 
 ---
 
@@ -43,8 +43,8 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek1106kr&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1106kr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
