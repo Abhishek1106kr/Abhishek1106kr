@@ -1,26 +1,13 @@
 # Hi, I'm Abhishek Kr. Chauhan 👋
 
-🎓 **Computer Science Bachelor** at **Indian Institute of Technology Madras**  
-🌱 Passionate about **Open Source** and **Web Development**  
-🚀 Currently contributing to **[Astropy](https://www.astropy.org/)** under **OpenAstronomy**  
+🎓 **Computer Science Major** at **Medhavi Skills University**  
+🌱 Passionate about **Open Source** and **AI/ML**  
+🚀 Currently contributing to **[Astropy](https://www.astropy.org/) &[Zulip]** under **OpenAstronomy & Zulip**;   
 📝 **Hobbies**: Writing poetry and exploring literature  
 
 ---
+**Skills and Tools:**
 
-### 🛠️ Skills
-
-#### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-#### Python & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
 
