@@ -44,8 +44,8 @@
 <a href="https://dev.to/abhishek1106kr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhishek1106kr" height="30" width="40" /></a>
 <a href="https://x.com/Abhishe94086312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Abhishe94086312
 " height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/gautamkrishnar](https://www.linkedin.com/in/abhishek-chauhan-685b0130a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-chauhan-685b0130a" height="30" width="40" /></a>
-<a href="[https://instagram.com/gautamkrishnar](https://www.instagram.com/abhishekkr_akr/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekkr_akr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-chauhan-685b0130a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-chauhan-685b0130a" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abhishekkr_akr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekkr_akr" height="30" width="40" /></a>
 
 
 
