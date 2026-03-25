@@ -37,10 +37,16 @@
 🎓 **Computer Science Major** at **Medhavi Skills University**  
 🌱 Passionate about **Open Source** and **AI/ML**  
 🚀 Currently contributing to **[Astropy](https://www.astropy.org/) &[Zulip]** under **OpenAstronomy & Zulip**;   
-📝 **Hobbies**: Writing poetry and exploring literature  
+📝 **Hobbies**: Writing poetry and exploring literature 
 
----
-**Skills and Tools:**
+<h2>🔗 &nbsp;Connect with me</h2>
+<p align="left">
+<a href="https://dev.to/abhishek1106kr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhishek1106kr" height="30" width="40" /></a>
+<a href="https://x.com/Abhishe94086312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Abhishe94086312
+" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/gautamkrishnar](https://www.linkedin.com/in/abhishek-chauhan-685b0130a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-chauhan-685b0130a" height="30" width="40" /></a>
+<a href="[https://instagram.com/gautamkrishnar](https://www.instagram.com/abhishekkr_akr/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekkr_akr" height="30" width="40" /></a>
+
 
 
 ---
@@ -60,14 +66,9 @@
 
 ### 📫 Contact Me
 - **Email**: [chauhanabhishekkr@gmail.com](mailto:chauhanabhishekkr@gmail.com)  
-- **LinkedIn**: [Click Here](www.linkedin.com/in/abhishek-kumar-chauhan-685b0130a)
-
 ---
 
 ### 📊 GitHub Stats
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek1106kr&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6B00&currStreakNum=DDDDDD&currStreakLabel=FF6B00&sideNums=DDDDDD&sideLabels=AAAAAA&ring=FF6B00&stroke=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1106kr&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/Abhishek1106kr/github-readme-stats)
 
@@ -75,7 +76,8 @@
 ---
 
 ### 🏽 Organization
-- **Astropy** - [OpenAstronomy](https://www.openastronomy.org/)  
+- **Astropy** - [OpenAstronomy](https://www.openastronomy.org/)
+- **OmegaUP**- [OmegaUp](https://www.omegaup.org/)  
 
 ### 📜 Favorite Quote
 > "The best way to predict the future is to create it."  
