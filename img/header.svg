@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" role="img" aria-labelledby="t">
+  <title id="t">Abhishek Kr. Chauhan — retrieval systems · computer vision · DevOps · open source</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="0.5" stop-color="#db2777"/>
+      <stop offset="1" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .name { font: 700 58px "Segoe UI", Inter, "Helvetica Neue", Arial, sans-serif; fill: #fff; letter-spacing: 1px; }
+    .tag { font: 500 18px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #fff; opacity: .92; }
+  </style>
+  <path d="M0 0H1000V160C860 200 760 140 600 168C440 196 340 150 200 172C110 186 50 178 0 168Z" fill="url(#g)"/>
+  <path d="M0 150C120 180 240 130 380 158C520 186 640 140 780 162C880 178 950 166 1000 150V160C860 200 760 140 600 168C440 196 340 150 200 172C110 186 50 178 0 168Z" fill="#fff" opacity=".18">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-30 4;0 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <g opacity="0">
+    <text x="500" y="92" text-anchor="middle" class="name">Abhishek Kr. Chauhan</text>
+    <text x="500" y="132" text-anchor="middle" class="tag">retrieval systems · computer vision · DevOps · open source</text>
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+  </g>
+</svg>
