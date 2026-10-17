@@ -1,88 +1,61 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img src="img/terminal.svg" width="100%" alt="Terminal: whoami — Abhishek, AI and DevOps engineer in Bengaluru, India. Focus: retrieval systems that cite their sources, CV/ML pipelines, shipping them to production. Shipped: BIS Navigator, PULLI, OpenEHR Bridge, GeoTera, RAG." />
 
-<p>Welcome to my page! </br> I'm AbhiShek, DevOps & AI Engineer from <img src="https://github.com/Abhishek1106kr/Abhishek1106kr/blob/main/india.svg" width="15"/> <b>Bengaluru, India</b>. </p>
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
- 
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-kumar-chauhan-685b0130a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chauhanabhishekkr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Abhishe94086312"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://dev.to/abhishek1106kr"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to" /></a>
 </p>
 
+I build **AI systems that can show their sources** — retrieval pipelines that refuse to guess, vision models that check their own output — and the infrastructure that puts them in production.
 
-🎓 **Computer Science Major** at **Medhavi Skills University**  
-🌱 Passionate about **Open Source** and **AI/ML**  
-🚀 Currently contributing to **[Astropy](https://www.astropy.org/) &[Zulip]** under **OpenAstronomy & Zulip**;   
-📝 **Hobbies**: Writing poetry and exploring literature 
+Data Engineering @ **IIT Madras** · Computer Science @ **Medhavi Skills University** · I write poetry when I'm not writing code.
 
-<h2>🔗 &nbsp;Connect with me</h2>
-<p align="left">
-<a href="https://dev.to/abhishek1106kr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhishek1106kr" height="30" width="40" /></a>
-<a href="https://x.com/Abhishe94086312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Abhishe94086312
-" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhishek-chauhan-685b0130a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-chauhan-685b0130a" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abhishekkr_akr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekkr_akr" height="30" width="40" /></a>
+## Things I've shipped
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BIS-Standards-AI-Assistant/BIS">BIS Standards Navigator</a></h3>
+      <sub>Smart India Hackathon 2026 · SIH26107</sub>
+      <p>An evidence-first assistant for Indian Standards. Ask "which standard covers steel water bottles?" and it answers with the document, page and clause behind every claim — or says plainly that it can't find one.</p>
+      <p><code>Next.js</code> <code>pgvector</code> <code>Drizzle</code> <code>Vercel AI SDK</code> <code>Playwright</code></p>
+      <p>Top contributor · <a href="https://bis-standards-client.vercel.app">Live demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SIH-2026-Celestials/pulli_kolam">PULLI</a></h3>
+      <sub>Smart India Hackathon 2026 · Kolam design principles</sub>
+      <p>Turns hand-drawn South Indian <i>pulli kolam</i> into graphs: measures symmetry and motifs, verifies single-stroke correctness, and generates new designs. Classical CV and a learned detector, served side by side.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Docker</code></p>
+      <p>Top contributor · <a href="https://pulli-kolam.vercel.app">Live demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Abhishek1106kr/ehr-core">OpenEHR Bridge</a></h3>
+      <sub>Healthcare workflow engine · in progress</sub>
+      <p>Automates a hospital front desk: patient registration, appointments and insurance checks behind a REST API with role-based access and audit logs, plus a FHIR adapter and a browser-automation fallback.</p>
+      <p><code>TypeScript</code> <code>FHIR</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Abhishek1106kr/GeoTera">GeoTera</a></h3>
+      <sub>Live world-data dashboard</sub>
+      <p>News, markets, climate and population pulled from open APIs and RSS on a schedule, then pushed to the browser over WebSocket the moment they change.</p>
+      <p><code>FastAPI</code> <code>APScheduler</code> <code>WebSocket</code> <code>Next.js</code></p>
+    </td>
+  </tr>
+</table>
 
+Also: [RAG](https://github.com/Abhishek1106kr/RAG) (Gemini + ChromaDB, [try it](https://jrfvvy5kac46eyjrja3ycv.streamlit.app/)) · [APIPEDIA](https://github.com/Abhishek1106kr/apiPedia) · [FinanceOS](https://github.com/Abhishek1106kr/finops)
 
----
+## Open source
 
-### 🌟 Goals
-- To become a **significant contributor** in the **Open Source Community**.  
-- Focus on **Astropy** && **Sunpy** and other scientific computing projects.  
+- **[pandas](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+author%3AAbhishek1106kr)** — documentation fixes: regex handling of `pat` in `str.split` / `str.contains`, and `make.py --single` for objects referenced by module path *(in review)*
+- **[BIS Standards Navigator](https://github.com/BIS-Standards-AI-Assistant/BIS/pulls?q=is%3Apr+author%3AAbhishek1106kr+is%3Amerged)** — TTS in every answer language, i18n and API fixes, and a guard that stops the assistant inventing "Gazetted" editions
+- **[PULLI](https://github.com/SIH-2026-Celestials/pulli_kolam/pulls?q=is%3Apr+author%3AAbhishek1106kr+is%3Amerged)** — structural generation pipeline, ML detector API, real-photo validation and production hardening
 
----
+## Stack
 
-### 📚 Currently Learning
-- Advanced **Python** libraries **(TensorFlow, PyTorch, Keras)** for data analysis and Artificial Intelligence.  
-- Contributing to **Astropy** and learning about **Astronomy-focused Python tools**.
-- Currently Working on **[Terminal-Buddy](https://github.com/Abhishek1106kr/Terminal-Buddy)** an AI based Terminal Assistance tool.  
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nuxtjs,fastapi,postgres,mongodb,docker,githubactions,tailwind,vercel&perline=13" alt="Python, TypeScript, JavaScript, React, Next.js, Nuxt, FastAPI, PostgreSQL, MongoDB, Docker, GitHub Actions, Tailwind CSS, Vercel" /></a>
 
----
-
-### 📫 Contact Me
-- **Email**: [chauhanabhishekkr@gmail.com](mailto:chauhanabhishekkr@gmail.com)  
----
-
-### 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1106kr&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/Abhishek1106kr/github-readme-stats)
-
-
----
-
-### 🏽 Organization
-- **Astropy** - [OpenAstronomy](https://www.openastronomy.org/)
-- **OmegaUP**- [OmegaUp](https://www.omegaup.org/)  
-
-### 📜 Favorite Quote
-> "The best way to predict the future is to create it."  
-> – *Peter Drucker*  
-
----
-
-✨ Thanks for visiting my profile! Let's connect and build something amazing together.  
+<sub>Currently: getting my pandas PRs merged and picking up good first issues in MIT-licensed projects.</sub>

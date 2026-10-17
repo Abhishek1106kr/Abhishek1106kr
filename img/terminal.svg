@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
+  <title id="t">abhishek@bengaluru terminal</title>
+  <desc id="d">whoami: Abhishek, AI and DevOps engineer in Bengaluru, India. Focus: retrieval systems that cite their sources, computer-vision pipelines, and shipping them to production. Shipped: BIS Navigator, PULLI, OpenEHR Bridge, GeoTera, RAG.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 16px; }
+    .prompt { fill: #3fb950; font-weight: 600; }
+    .cmd { fill: #e6edf3; }
+    .out { fill: #8b949e; }
+    .hl { fill: #e6edf3; font-weight: 600; }
+    .dir { fill: #58a6ff; }
+    .title { fill: #8b949e; font-size: 13px; }
+  </style>
+
+  <defs>
+    <clipPath id="c1"><rect x="20" y="62" height="26" width="0"><animate attributeName="width" from="0" to="140" begin="0.3s" dur="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="20" y="124" height="26" width="0"><animate attributeName="width" from="0" to="220" begin="1.6s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="20" y="186" height="26" width="0"><animate attributeName="width" from="0" to="200" begin="3.0s" dur="0.6s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="299" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 36 H899.5" stroke="#30363d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="450" y="23" text-anchor="middle" class="title">abhishek@bengaluru: ~</text>
+
+  <g clip-path="url(#c1)"><text x="28" y="80"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text></g>
+  <text x="28" y="106" opacity="0"><tspan class="hl">Abhishek</tspan><tspan class="out"> — AI &amp; DevOps engineer · Bengaluru, India</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.4s" fill="freeze"/></text>
+
+  <g clip-path="url(#c2)"><text x="28" y="142"><tspan class="prompt">$ </tspan><tspan class="cmd">cat focus.txt</tspan></text></g>
+  <text x="28" y="168" class="out" opacity="0">retrieval systems that cite their sources · CV/ML pipelines · shipping them to prod
+    <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/></text>
+
+  <g clip-path="url(#c3)"><text x="28" y="204"><tspan class="prompt">$ </tspan><tspan class="cmd">ls ~/shipped</tspan></text></g>
+  <text x="28" y="230" class="dir" opacity="0">bis-navigator/   pulli/   openehr-bridge/   geotera/   rag/
+    <animate attributeName="opacity" from="0" to="1" begin="3.8s" dur="0.4s" fill="freeze"/></text>
+
+  <g opacity="0">
+    <text x="28" y="266" class="prompt">$</text>
+    <rect x="44" y="252" width="10" height="18" fill="#e6edf3">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="4.4s" repeatCount="indefinite"/>
+    </rect>
+    <animate attributeName="opacity" from="0" to="1" begin="4.3s" dur="0.1s" fill="freeze"/>
+  </g>
+</svg>
