@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-observatory.svg",
+  "backgroundColor": "#0B1026",
+  "foregroundColor": "#E2E8F0",
+  "strongColor": "#F5C451",
+  "weakColor": "#94A3B8",
+  "radarColor": "#5EEAD4",
+  "growingAnimation": true,
+  "contribColors": ["#161E3F", "#2E3A7A", "#6D5BD0", "#C084FC", "#F5C451"]
+}

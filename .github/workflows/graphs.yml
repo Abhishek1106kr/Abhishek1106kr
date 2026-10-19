@@ -22,11 +22,12 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman,breakout"
 
-      - name: Generate 3D contribution skyline
+      - name: Generate 3D contribution skyline in the observatory palette
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/skyline.json
 
       - name: Collect everything into dist
         run: mv profile-3d-contrib/*.svg dist/
