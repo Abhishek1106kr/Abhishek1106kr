@@ -120,22 +120,8 @@ Also: [GeoTera](https://github.com/Abhishek1106kr/GeoTera), a live world-data da
   <img src="https://img.shields.io/badge/BullMQ-1E2A5A?style=flat-square&logo=redis&logoColor=F5C451" alt="BullMQ">
   <img src="https://img.shields.io/badge/Fastify-1E2A5A?style=flat-square&logo=fastify&logoColor=F5C451" alt="Fastify">
   <img src="https://img.shields.io/badge/Groq-1E2A5A?style=flat-square" alt="Groq">
-    <img src="https://img.shields.io/badge/Keras-1E2A5A?style=flat-square&logo=keras&logoColor=F5C451" alt="Keras">
+  <img src="https://img.shields.io/badge/Keras-1E2A5A?style=flat-square&logo=keras&logoColor=F5C451" alt="Keras">
 </p>
-
-## Open source
-
-I want to become a real contributor to scientific Python: **Astropy**, **SunPy** and the wider **OpenAstronomy** family. This table is rebuilt from GitHub every day, so it only shows what's actually there.
-
-<!-- oss:start -->
-#### under review — **4** open PRs across **1** project
-
-| project | license | open | latest |
-|:--|:--|--:|:--|
-| [pandas-dev/pandas](https://github.com/pandas-dev/pandas)<br><sub>★ 50,236</sub> | `BSD-3-Clause` | 4 | [DOC: clarify MultiIndex.rename behaviour (GH#33778)](https://github.com/pandas-dev/pandas/pull/71039)<br>[DOC: document value-dependent datetime to string formatting (GH#69011)](https://github.com/pandas-dev/pandas/pull/71038)<br>[DOC: fix make.py --single for objects referenced by module path](https://github.com/pandas-dev/pandas/pull/70992)<br>[DOC: clarify regex handling of pat in str.split and str.contains](https://github.com/pandas-dev/pandas/pull/70204) |
-
-<sub>refreshed daily by an Action, last 2026-10-19</sub>
-<!-- oss:end -->
 
 <details>
 <summary><b>Currently learning</b></summary>
