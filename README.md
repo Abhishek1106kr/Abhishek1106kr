@@ -210,6 +210,14 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 ---
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek1106kr/Abhishek1106kr/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek1106kr/Abhishek1106kr/output/breakout-contribution-graph.svg">
+    <img alt="Breakout, played against my contribution graph" width="98%" src="https://raw.githubusercontent.com/Abhishek1106kr/Abhishek1106kr/output/breakout-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center">
   <a href="#top"><img src="https://img.shields.io/badge/▲_back_to_top-F97316?style=for-the-badge&labelColor=161b22" alt="back to top"></a>
 </p>
 
