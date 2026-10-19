@@ -1,0 +1,20 @@
+[
+  {"text": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
+  {"text": "Simplicity is prerequisite for reliability.", "author": "Edsger W. Dijkstra"},
+  {"text": "Talk is cheap. Show me the code.", "author": "Linus Torvalds"},
+  {"text": "Given enough eyeballs, all bugs are shallow.", "author": "Eric S. Raymond"},
+  {"text": "Programs must be written for people to read, and only incidentally for machines to execute.", "author": "Harold Abelson"},
+  {"text": "Premature optimization is the root of all evil.", "author": "Donald Knuth"},
+  {"text": "Make it work, make it right, make it fast.", "author": "Kent Beck"},
+  {"text": "Somewhere, something incredible is waiting to be known.", "author": "Carl Sagan"},
+  {"text": "We are a way for the cosmos to know itself.", "author": "Carl Sagan"},
+  {"text": "The important thing is not to stop questioning.", "author": "Albert Einstein"},
+  {"text": "Look up at the stars and not down at your feet.", "author": "Stephen Hawking"},
+  {"text": "Without data, you're just another person with an opinion.", "author": "W. Edwards Deming"},
+  {"text": "Controlling complexity is the essence of computer programming.", "author": "Brian Kernighan"},
+  {"text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.", "author": "Martin Fowler"},
+  {"text": "First, solve the problem. Then, write the code.", "author": "John Johnson"},
+  {"text": "Where the mind is without fear and the head is held high.", "author": "Rabindranath Tagore"},
+  {"text": "You have to dream before your dreams can come true.", "author": "A. P. J. Abdul Kalam"},
+  {"text": "Poetry is when an emotion has found its thought and the thought has found words.", "author": "Robert Frost"}
+]

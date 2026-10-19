@@ -1,0 +1,7 @@
+{
+  "user": "Abhishek1106kr",
+  "exclude_owners": ["Abhishek1106kr", "thefluxora", "SYMBOLCASTA", "theopensourceworld", "Kenlabs-io", "SIH-2026-Celestials", "BIS-Standards-AI-Assistant"],
+  "exclude_repos": ["firstcontributions/first-contributions"],
+  "license_overrides": {},
+  "max_prs_per_repo": 4
+}

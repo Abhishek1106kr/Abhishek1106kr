@@ -1,0 +1,41 @@
+name: rotate daily quote
+
+on:
+  schedule:
+    - cron: "31 18 * * *" # 00:01 IST
+  workflow_dispatch:
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick today's quote and rewrite README
+        run: |
+          python3 - <<'PY'
+          import json, datetime, re
+          from zoneinfo import ZoneInfo
+          quotes = json.load(open('.github/quotes.json'))
+          today = datetime.datetime.now(ZoneInfo('Asia/Kolkata')).date()
+          q = quotes[today.toordinal() % len(quotes)]
+          block = f'<i>“{q["text"]}”</i><br><sub>— {q["author"]}</sub>'
+          s = open('README.md').read()
+          new = re.sub(
+              r'(<!-- quote:start -->).*?(<!-- quote:end -->)',
+              lambda m: m.group(1) + '\n' + block + '\n' + m.group(2),
+              s, flags=re.S)
+          open('README.md', 'w').write(new)
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "quote of the day: $(TZ=Asia/Kolkata date +%F)"
+          git pull --rebase origin main
+          git push
