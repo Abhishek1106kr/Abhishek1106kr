@@ -138,7 +138,7 @@ I want to become a real contributor to scientific Python: **Astropy**, **SunPy**
 
 | project | license | open | latest |
 |:--|:--|--:|:--|
-| [pandas-dev/pandas](https://github.com/pandas-dev/pandas)<br><sub>★ 50,235</sub> | `BSD-3-Clause` | 4 | [DOC: clarify MultiIndex.rename behaviour (GH#33778)](https://github.com/pandas-dev/pandas/pull/71039)<br>[DOC: document value-dependent datetime to string formatting (GH#69011)](https://github.com/pandas-dev/pandas/pull/71038)<br>[DOC: fix make.py --single for objects referenced by module path](https://github.com/pandas-dev/pandas/pull/70992)<br>[DOC: clarify regex handling of pat in str.split and str.contains](https://github.com/pandas-dev/pandas/pull/70204) |
+| [pandas-dev/pandas](https://github.com/pandas-dev/pandas)<br><sub>★ 50,236</sub> | `BSD-3-Clause` | 4 | [DOC: clarify MultiIndex.rename behaviour (GH#33778)](https://github.com/pandas-dev/pandas/pull/71039)<br>[DOC: document value-dependent datetime to string formatting (GH#69011)](https://github.com/pandas-dev/pandas/pull/71038)<br>[DOC: fix make.py --single for objects referenced by module path](https://github.com/pandas-dev/pandas/pull/70992)<br>[DOC: clarify regex handling of pat in str.split and str.contains](https://github.com/pandas-dev/pandas/pull/70204) |
 <!-- oss:end -->
 
 <details>
