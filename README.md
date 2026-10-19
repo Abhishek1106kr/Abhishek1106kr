@@ -128,17 +128,13 @@ Also: [GeoTera](https://github.com/Abhishek1106kr/GeoTera), a live world-data da
 I want to become a real contributor to scientific Python: **Astropy**, **SunPy** and the wider **OpenAstronomy** family. This table is rebuilt from GitHub every day, so it only shows what's actually there.
 
 <!-- oss:start -->
-**2** merged PRs across **1** open-source project I don't own · <sub>refreshed daily by an Action, last 2026-10-19</sub>
-
-| project | license | merged | latest |
-|:--|:--|--:|:--|
-| [agam263/subscription-manager](https://github.com/agam263/subscription-manager)<br><sub>★ 1</sub> | `MIT` | 2 | [fix: resolve proxy routing causing 404 for chat endpoint](https://github.com/agam263/subscription-manager/pull/4)<br>[feat: add RAG-powered AI chatbot with SubManager knowledge base](https://github.com/agam263/subscription-manager/pull/2) |
-
 #### under review — **4** open PRs across **1** project
 
 | project | license | open | latest |
 |:--|:--|--:|:--|
 | [pandas-dev/pandas](https://github.com/pandas-dev/pandas)<br><sub>★ 50,236</sub> | `BSD-3-Clause` | 4 | [DOC: clarify MultiIndex.rename behaviour (GH#33778)](https://github.com/pandas-dev/pandas/pull/71039)<br>[DOC: document value-dependent datetime to string formatting (GH#69011)](https://github.com/pandas-dev/pandas/pull/71038)<br>[DOC: fix make.py --single for objects referenced by module path](https://github.com/pandas-dev/pandas/pull/70992)<br>[DOC: clarify regex handling of pat in str.split and str.contains](https://github.com/pandas-dev/pandas/pull/70204) |
+
+<sub>refreshed daily by an Action, last 2026-10-19</sub>
 <!-- oss:end -->
 
 <details>

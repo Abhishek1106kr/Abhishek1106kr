@@ -91,12 +91,12 @@ def render(merged, review, cfg):
         rows, n_repos = table(merged, cfg, "mergedAt", "merged")
         lines += [f"{plural(len(merged), 'merged PR')} across {plural(n_repos, 'open-source project')} I don't own"
                   f" · <sub>refreshed daily by an Action, last {today}</sub>", "", *rows]
-    else:
-        lines += [f"<sub>no merged upstream PRs yet · refreshed daily by an Action, last {today}</sub>"]
     if review:
         rows, n_repos = table(review, cfg, "createdAt", "open")
         lines += ["", f"#### under review — {plural(len(review), 'open PR')} across {plural(n_repos, 'project')}", "", *rows]
-    return "\n".join(lines)
+    if not merged:
+        lines += ["", f"<sub>refreshed daily by an Action, last {today}</sub>"]
+    return "\n".join(lines).lstrip("\n")
 
 
 def main():
