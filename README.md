@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Given enough eyeballs, all bugs are shallow.”</i><br><sub>— Eric S. Raymond</sub>
+<i>“Programs must be written for people to read, and only incidentally for machines to execute.”</i><br><sub>— Harold Abelson</sub>
 <!-- quote:end -->
 </p>
 
