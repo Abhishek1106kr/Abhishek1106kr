@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Look up at the stars and not down at your feet.”</i><br><sub>— Stephen Hawking</sub>
+<i>“Without data, you're just another person with an opinion.”</i><br><sub>— W. Edwards Deming</sub>
 <!-- quote:end -->
 </p>
 
