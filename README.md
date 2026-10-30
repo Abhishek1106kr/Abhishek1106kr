@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Without data, you're just another person with an opinion.”</i><br><sub>— W. Edwards Deming</sub>
+<i>“Controlling complexity is the essence of computer programming.”</i><br><sub>— Brian Kernighan</sub>
 <!-- quote:end -->
 </p>
 
