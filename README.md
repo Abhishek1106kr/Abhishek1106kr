@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Controlling complexity is the essence of computer programming.”</i><br><sub>— Brian Kernighan</sub>
+<i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i><br><sub>— Martin Fowler</sub>
 <!-- quote:end -->
 </p>
 
