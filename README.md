@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i><br><sub>— Martin Fowler</sub>
+<i>“First, solve the problem. Then, write the code.”</i><br><sub>— John Johnson</sub>
 <!-- quote:end -->
 </p>
 
