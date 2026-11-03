@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Where the mind is without fear and the head is held high.”</i><br><sub>— Rabindranath Tagore</sub>
+<i>“You have to dream before your dreams can come true.”</i><br><sub>— A. P. J. Abdul Kalam</sub>
 <!-- quote:end -->
 </p>
 
