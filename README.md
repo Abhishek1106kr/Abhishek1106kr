@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“You have to dream before your dreams can come true.”</i><br><sub>— A. P. J. Abdul Kalam</sub>
+<i>“Poetry is when an emotion has found its thought and the thought has found words.”</i><br><sub>— Robert Frost</sub>
 <!-- quote:end -->
 </p>
 
