@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Simplicity is prerequisite for reliability.”</i><br><sub>— Edsger W. Dijkstra</sub>
+<i>“Talk is cheap. Show me the code.”</i><br><sub>— Linus Torvalds</sub>
 <!-- quote:end -->
 </p>
 
