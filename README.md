@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Programs must be written for people to read, and only incidentally for machines to execute.”</i><br><sub>— Harold Abelson</sub>
+<i>“Premature optimization is the root of all evil.”</i><br><sub>— Donald Knuth</sub>
 <!-- quote:end -->
 </p>
 
