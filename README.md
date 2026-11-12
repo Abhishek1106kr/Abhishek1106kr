@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Premature optimization is the root of all evil.”</i><br><sub>— Donald Knuth</sub>
+<i>“Make it work, make it right, make it fast.”</i><br><sub>— Kent Beck</sub>
 <!-- quote:end -->
 </p>
 
