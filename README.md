@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Somewhere, something incredible is waiting to be known.”</i><br><sub>— Carl Sagan</sub>
+<i>“We are a way for the cosmos to know itself.”</i><br><sub>— Carl Sagan</sub>
 <!-- quote:end -->
 </p>
 
