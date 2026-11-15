@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“The important thing is not to stop questioning.”</i><br><sub>— Albert Einstein</sub>
+<i>“Look up at the stars and not down at your feet.”</i><br><sub>— Stephen Hawking</sub>
 <!-- quote:end -->
 </p>
 
