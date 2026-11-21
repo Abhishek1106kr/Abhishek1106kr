@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“First, solve the problem. Then, write the code.”</i><br><sub>— John Johnson</sub>
+<i>“Where the mind is without fear and the head is held high.”</i><br><sub>— Rabindranath Tagore</sub>
 <!-- quote:end -->
 </p>
 
