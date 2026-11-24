@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Poetry is when an emotion has found its thought and the thought has found words.”</i><br><sub>— Robert Frost</sub>
+<i>“The best way to predict the future is to create it.”</i><br><sub>— Peter Drucker</sub>
 <!-- quote:end -->
 </p>
 
