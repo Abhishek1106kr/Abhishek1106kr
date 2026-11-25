@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“The best way to predict the future is to create it.”</i><br><sub>— Peter Drucker</sub>
+<i>“Simplicity is prerequisite for reliability.”</i><br><sub>— Edsger W. Dijkstra</sub>
 <!-- quote:end -->
 </p>
 
