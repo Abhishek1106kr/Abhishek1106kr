@@ -146,7 +146,7 @@ Off the keyboard I write poetry and read whatever literature I can get my hands 
 
 <p align="center">
 <!-- quote:start -->
-<i>“Talk is cheap. Show me the code.”</i><br><sub>— Linus Torvalds</sub>
+<i>“Given enough eyeballs, all bugs are shallow.”</i><br><sub>— Eric S. Raymond</sub>
 <!-- quote:end -->
 </p>
 
